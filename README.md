@@ -12,3 +12,7 @@ If you are using IDLE make sure to install the following libraries
   2. time
   3. imutils
 
+DEMO:
+https://user-images.githubusercontent.com/59734392/132105297-9a7189e4-d7d0-48dc-9565-17103a4ebc19.MP4
+
+
