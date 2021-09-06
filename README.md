@@ -7,7 +7,7 @@ Description:
 Software/Compiler: I have used jupyter notebook-Anaconda
 
 Libraries Used:
-If you are using IDLE make sure to install the following libraries
+Make sure to install the following libraries
   1. open cv
   2. time
   3. imutils
